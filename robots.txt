@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohshoosaov.whatrecovery.org/sitemap.xml
